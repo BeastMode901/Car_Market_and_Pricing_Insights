@@ -1,4 +1,4 @@
-# Car Data Analysis
+# Car Market & Pricing Insights
 
 ## Project Overview
 In this project, I explored a dataset of 4,340 cars to identify trends in prices, mileage, fuel types, seller types, transmission types, and ownership history. I examined the most and least expensive cars, cars with the highest kilometers driven, and patterns across fuel types, seller types, and ownership. I also analyzed manufacturing trends by year and decade and looked at how transmission types and seller types relate to pricing. The goal was to understand the car market and uncover patterns that provide insights into car pricing, usage, and sales trends.
